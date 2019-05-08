@@ -5,7 +5,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * Hello world!
- *ㅇㄹㄴㅇㄹ
+ *
  */
 public class App 
 {
